@@ -1,4 +1,4 @@
-# 🚀 Desenvolvimento Back-End com Node.js T4 — Semanas 05 a 08
+# 🚀 Desenvolvimento Back-End com Node.js T4:  Semanas 05 a 08
 
 Continuação do repositório das **semanas 01 a 04**.
 
